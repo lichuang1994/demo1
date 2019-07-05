@@ -1,0 +1,4 @@
+E:\demo\demo\demo\bin\demo.dll
+E:\demo\demo\demo\bin\demo.pdb
+E:\demo\demo\demo\obj\Debug\demo.dll
+E:\demo\demo\demo\obj\Debug\demo.pdb
